@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My 15 Puzzle</string>
+    <string name="ok">OK</string>
+    <string name="cancel">キャンセル</string>
+    <string name="giveup">ギブアップ</string>
+    <string name="do_you_give_up">あきらめますか？</string>
+    <string name="time">経過時間</string>
+</resources>
